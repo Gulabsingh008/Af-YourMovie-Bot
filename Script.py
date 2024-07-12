@@ -4,11 +4,11 @@
 
 
 class script(object):
-    START_TXT = """<b> ᴡʜᴀᴛ'ꜱ ᴜᴘ {} {} \n
+    START_TXT = """<b> ᴡʜᴀᴛ'ꜱ ᴜᴘ {}  \n
   ɪᴛ'ꜱ ʙᴀʙʏɢɪʀʟ ʜᴇʀᴇ, ᴛʜᴇ ʙᴇꜱᴛ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴀʟʟ ʟᴀᴛᴇꜱᴛ ꜰᴇᴀᴛᴜʀᴇꜱ. \n
 ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴀɴʏ ᴍᴏᴠɪᴇ/ꜱᴇʀɪᴇꜱ ᴏʀ ᴀɴɪᴍᴇ ᴡɪᴛʜɪɴ 1 ꜱᴇᴄᴏɴᴅ ᴊᴜꜱᴛ ꜱᴇɴᴅ ᴍᴇ ᴛʜᴇ ɴᴀᴍᴇ ᴏꜰ ʏᴏᴜʀ ᴅᴇꜱɪʀᴇᴅ ᴍᴏᴠɪᴇ ᴀɴᴅ ꜱᴇᴇ ᴍʏ ᴍᴀɢɪᴄ. \n
 <blockquote>ᴛᴏ ʀᴇᴀᴅ ᴍʏ ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅꜱ ᴄʟɪᴄᴋ ʜᴇʀᴇ.👇</blockquote>
-ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/Ig_1Venom'>Venom 😎</a>
+ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/Af_Mhakal'>Venom 😎</a>
 </b>"""
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
@@ -93,7 +93,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 my features Stay here new features coming soon...  
  <b>✯ Maintained by : <a href=https://t.me/Ig_1Venom>Venom 😎</a></b>
   
- <b>✯ Join here : <a href=https://t.me/Geeky_Updates>🔥Join My Updates</a></b> 
+ <b>✯ Join here : <a href=https://t.me/Af_Update>🔥Join My Updates</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
@@ -683,13 +683,13 @@ Also your tutorial will be Added Your Group..."""
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developers -
 
--Dev 1 [Owner of this bot ]<a href='https://t.me/Ig_1Venom'>Venom 😎</a>
+-Dev 1 [Owner of this bot ]<a href='https://t.me/Af_Mhakal'>Mahakal😎</a>
 
--Dev 2 <a href='https://t.me/Geeky_Network'>Main Channel</a>
+-Dev 2 <a href='https://t.me/Af_Mallu'>Main Channel</a>
 
--Dev 3 <a href='https://t.me/Geeky_Updates>Update Channel</a>
+-Dev 3 <a href='https://t.me/Af_Update>Update Channel</a>
 
-- Dev 4 <a href='https://t.me/Movies_Search_Groupp'>Movie Group</a>
+- Dev 4 <a href='https://t.me/Af_Main_Chat'>Movie Group</a>
 """
 
     RENAME_TXT = """
@@ -742,7 +742,7 @@ Pᴀɴᴄʜᴀʏᴀᴛ Eᴘɪsᴏᴅᴇ 05 ❌
 
 ○ Gᴜʏs Iғ ʏᴏᴜ ᴅᴏ ɴᴏᴛ ғɪɴᴅ ᴀɴʏ ᴍᴏᴠɪᴇ ᴏɴ ʙᴏᴛ ᴀɴᴅ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ʀᴇǫᴜᴇsᴛ ᴛʜᴀᴛ ᴍᴏᴠɪᴇ ғʀᴏᴍ ᴀᴅᴍɪɴ, ᴛʜᴇɴ 
 
-@GEEKY_SUPPORT Rᴇǫᴜᴇꜱᴛ Hᴇʀᴇ Aɴᴅ Uꜱᴇ Tʜɪꜱ Pᴀᴛᴛᴇʀɴ👇👇
+@Af_Support_Chat Rᴇǫᴜᴇꜱᴛ Hᴇʀᴇ Aɴᴅ Uꜱᴇ Tʜɪꜱ Pᴀᴛᴛᴇʀɴ👇👇
 
 Rᴇǫᴜᴇꜱᴛ Pᴀᴛᴛᴇʀɴ 🍀: 
 #request Mᴏᴠɪᴇ Nᴀᴍᴇ | Yᴇᴀʀ | Language
@@ -754,11 +754,11 @@ Exᴀᴍᴘʟᴇ: 
 
 Yᴏᴜ Cᴀɴ Dᴏɴᴀᴛᴇ 🎁 Aɴʏ Aᴍᴏᴜɴᴛ Yᴏᴜ Wɪsʜ Tᴏ Sᴜᴘᴘᴏʀᴛ Dᴇᴠᴇʟᴏᴘᴇʀ Eᴠᴇɴ 10ʀs Wɪʟʟ ʙᴇ Aᴘᴘʀᴇᴄɪᴀᴛᴇᴅ. </b>
 
-<b> 🛍️ UPI ID - </b>  <code> MisterBrutal@apl </code>
+<b> 🛍️ UPI ID - </b>  <code> 7000795277@ibl </code>
 
 <b> 📸 Sᴇɴᴅ Sᴄʀᴇᴇɴsʜᴏᴛ Hᴇʀᴇ Aɴᴅ I Wɪʟʟ Aᴅᴅ Yᴏᴜ As A Pʀᴇᴍɪᴜᴍ Mᴇᴍʙᴇʀ.
 
-Hᴇʀᴇ 👇 - @ig_1Venom </b> """
+Hᴇʀᴇ 👇 - @Af_Mhakal </b> """
 
 
 # Don't Remove Credit @VJ_Botz
