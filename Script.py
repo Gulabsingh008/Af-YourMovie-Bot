@@ -5,21 +5,18 @@
 
 class script(object):
     START_TXT = """<b> ᴡʜᴀᴛ'ꜱ ᴜᴘ {}  \n
-  ɪᴛ'ꜱ ʙᴀʙʏɢɪʀʟ ʜᴇʀᴇ, ᴛʜᴇ ʙᴇꜱᴛ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴀʟʟ ʟᴀᴛᴇꜱᴛ ꜰᴇᴀᴛᴜʀᴇꜱ. \n
+  ɪ ᴀᴍ ᴛʜᴇ ʙᴇꜱᴛ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴀʟʟ ʟᴀᴛᴇꜱᴛ ꜰᴇᴀᴛᴜʀᴇꜱ. \n
 ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴀɴʏ ᴍᴏᴠɪᴇ/ꜱᴇʀɪᴇꜱ ᴏʀ ᴀɴɪᴍᴇ ᴡɪᴛʜɪɴ 1 ꜱᴇᴄᴏɴᴅ ᴊᴜꜱᴛ ꜱᴇɴᴅ ᴍᴇ ᴛʜᴇ ɴᴀᴍᴇ ᴏꜰ ʏᴏᴜʀ ᴅᴇꜱɪʀᴇᴅ ᴍᴏᴠɪᴇ ᴀɴᴅ ꜱᴇᴇ ᴍʏ ᴍᴀɢɪᴄ. \n
-<blockquote>ᴛᴏ ʀᴇᴀᴅ ᴍʏ ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅꜱ ᴄʟɪᴄᴋ ʜᴇʀᴇ.👇</blockquote>
-ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/Af_Mhakal'>Venom 😎</a>
+ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/Af_Mhakal'>Mahakal 😎</a>
 </b>"""
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b><blockquote>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟</blockquote>
     
-‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/{}>{}</a>
 ‣ ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
 ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Ig_1Venom'>Venom 😎</a> 
 ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
-‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
 ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
 ‣ ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://heroku.com'>ʜᴇʀᴏᴋᴜ</a> 
 </b>"""
@@ -91,7 +88,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/Ig_1Venom>Venom 😎</a></b>
+ <b>✯ Maintained by : <a href=https://t.me/Af_Mhakal>Mahakal 😎</a></b>
   
  <b>✯ Join here : <a href=https://t.me/Af_Update>🔥Join My Updates</a></b> 
   
